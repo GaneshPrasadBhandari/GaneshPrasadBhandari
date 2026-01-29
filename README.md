@@ -25,5 +25,5 @@ I am a Senior AI Architect and Researcher focused on building **healthcare and e
 
 ### 📫 Connect with me
 * **LinkedIn:** [Ganesh Prasad Bhandari](https://www.linkedin.com/in/ganesh-prasad-bhandari-b165b9187)
-* **Email:** [ganeshprasadbhandari79@gmail.com](mailto:ganeshprasadbhandari79@gmail.com)
+* **Email:** 
 * **Newsletter:** [AI Vanguard](https://www.linkedin.com/newsletters/ai-vanguard-7220489256505331712/)

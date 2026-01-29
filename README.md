@@ -19,9 +19,11 @@ I am a Senior AI Architect and Researcher focused on building **healthcare and e
 * **Engineering Stack:** Docker-based pipelines, CI/CD with GitHub Actions, and scalable deployments (EC2, SageMaker, Azure AI services).
 
 ### 🎓 Academic Foundation
-* **MSIT (In Progress):** Clark University, Massachusetts.
-* **Post-Graduation in AI/ML:** University of Texas at Austin[cite: 1, 58].
-* **Advanced Degrees:** MCA (Computer Applications) & MBA (Marketing & Operations)[cite: 1, 58].
+* **MSIT (In Progress):** Clark University, Massachusetts,USA.
+* **Master of Data Science (Global):** Deakin University, Australia.
+* **Post-Graduation in AI/ML:** University of Texas at Austin.
+* **Master of Big Data Analytics:** Great Learning, India
+* **Advanced Degrees:** MCA (Computer Applications) & MBA (Marketing & Operations),India.
 
 ### 📫 Connect with me
 * **LinkedIn:** [Ganesh Prasad Bhandari](https://www.linkedin.com/in/ganesh-prasad-bhandari-b165b9187)
